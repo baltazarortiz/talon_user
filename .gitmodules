@@ -10,3 +10,6 @@
 [submodule "rango-talon"]
 	path = rango-talon
 	url = https://github.com/baltazarortiz/rango-talon
+[submodule "talon-filetree-commands"]
+	path = talon-filetree-commands
+	url = https://github.com/baltazarortiz/talon-filetree-commands
