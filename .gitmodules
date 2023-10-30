@@ -1,0 +1,12 @@
+[submodule "talon_public"]
+	path = talon_public
+	url = https://github.com/baltazarortiz/talon_public
+[submodule "community"]
+	path = community
+	url = https://github.com/baltazarortiz/community
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = https://github.com/baltazarortiz/cursorless-talon
+[submodule "rango-talon"]
+	path = rango-talon
+	url = https://github.com/baltazarortiz/rango-talon
