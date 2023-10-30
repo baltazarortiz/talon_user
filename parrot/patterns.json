@@ -1,0 +1,42 @@
+{
+	"click": {
+		"sounds": ["click"],
+		"threshold": {
+			">power": 20,
+			">probability": 0.95
+		},
+		"throttle": {
+			"click": 0.15
+		}
+	},
+	"pop": {
+		"sounds": ["Pop"],
+		"threshold": {
+			">power": 40,
+			">probability": 0.92
+		},
+		"throttle": {
+			"pop": 0.15
+		}
+	},
+	"teeth": {
+		"sounds": ["Teeth"],
+		"threshold": {
+			">power": 25,
+			">probability": 0.95
+		},
+		"throttle": {
+			"teeth": 0.15
+		}
+	},
+	"blow": {
+		"sounds": ["blow"],
+		"threshold": {
+			">power": 5,
+			">probability": 0.92
+		},
+		"throttle": {
+			"blow": 0.15
+		}
+	}
+}
