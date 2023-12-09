@@ -22,8 +22,8 @@
 	"teeth": {
 		"sounds": ["Teeth"],
 		"threshold": {
-			">power": 25,
-			">probability": 0.95
+			">power": 30,
+			">probability": 0.99
 		},
 		"throttle": {
 			"teeth": 0.15
