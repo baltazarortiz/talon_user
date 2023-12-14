@@ -7,11 +7,10 @@ deck(pedal_left):
     user.mouse_drag_end()
 
 deck(pedal_middle):
-    mouse_click(1)
-    # close the mouse grid if open
-    user.grid_close()
+    speech.toggle()
+    user.vscode("cursorless.toggleDecorations")
 
 deck(pedal_right):
-    mouse_click(2)
+    mouse_click(1)
     # close the mouse grid
     user.grid_close()
