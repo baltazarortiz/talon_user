@@ -1,0 +1,87 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "telemetry.telemetryLevel": "error",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?_",
+    "cursorless.colors.dark": {
+        "blue": "#70acff",
+        "green": "#77ff70"
+    },
+    "editor.renderWhitespace": "trailing",
+    "files.trimTrailingWhitespace": true,
+    "editor.minimap.enabled": false,
+    "files.eol": "\n",
+    "cmake.configureOnOpen": true,
+    "git.autofetch": true,
+    "cursorless.hatEnablement.shapes": {
+        "bolt": true,
+        "curve": true,
+        "fox": true,
+        "frame": true,
+        "play": true,
+        "wing": true,
+        "hole": true,
+        "ex": true,
+        "crosshairs": true,
+        "eye": true
+    },
+    "cursorless.individualHatAdjustments": {
+        "default": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "bolt": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "curve": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "fox": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "frame": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "play": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "wing": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "hole": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "ex": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "crosshairs": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        },
+        "eye": {
+            "sizeAdjustment": 0,
+            "verticalOffset": 0
+        }
+    },
+    "cursorless.hatPenalties.shapes": {
+        "bolt": 1,
+        "curve": 1,
+        "fox": 1,
+        "frame": 1,
+        "play": 1,
+        "wing": 1,
+        "hole": 1,
+        "ex": 1,
+        "crosshairs": 1,
+        "eye": 1
+    },
+    "talon-filetree.hintPosition": "left",
+    "window.zoomLevel": 1
+}
