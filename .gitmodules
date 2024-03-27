@@ -1,18 +1,18 @@
 [submodule "talon_public"]
 	path = talon_public
-	url = https://github.com/baltazarortiz/talon_public
+	url = git@github.com:baltazarortiz/talon_public.git
 [submodule "community"]
 	path = community
-	url = https://github.com/baltazarortiz/community
+	url = git@github.com:baltazarortiz/community.git
 [submodule "cursorless-talon"]
 	path = cursorless-talon
-	url = https://github.com/baltazarortiz/cursorless-talon
+	url = git@github.com:baltazarortiz/cursorless-talon.git
 [submodule "rango-talon"]
 	path = rango-talon
-	url = https://github.com/baltazarortiz/rango-talon
+	url = git@github.com:baltazarortiz/rango-talon.git
 [submodule "talon-filetree-commands"]
 	path = talon-filetree-commands
-	url = https://github.com/baltazarortiz/talon-filetree-commands
+	url = git@github.com:baltazarortiz/talon-filetree-commands.git
 [submodule "flex-mouse-grid"]
 	path = flex-mouse-grid
 	url = https://github.com/brollin/flex-mouse-grid.git
