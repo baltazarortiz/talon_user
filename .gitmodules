@@ -13,3 +13,6 @@
 [submodule "talon-filetree-commands"]
 	path = talon-filetree-commands
 	url = https://github.com/baltazarortiz/talon-filetree-commands
+[submodule "flex-mouse-grid"]
+	path = flex-mouse-grid
+	url = https://github.com/brollin/flex-mouse-grid.git
