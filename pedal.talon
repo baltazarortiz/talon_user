@@ -11,6 +11,4 @@ deck(pedal_middle):
     user.vscode("cursorless.toggleDecorations")
 
 deck(pedal_right):
-    mouse_click(1)
-    # close the mouse grid
-    user.grid_close()
+    core.repeat_phrase(1)
