@@ -9,6 +9,16 @@ deck(pedal_left):
 deck(pedal_middle):
     speech.toggle()
     user.vscode("cursorless.toggleDecorations")
+    #user.rango_command_without_target("toggleHints")
 
-deck(pedal_right):
-    core.repeat_phrase(1)
+deck(pedal_right:down):
+    mode.disable("sleep")
+    mode.disable("command")
+    mode.enable("dictation")
+    user.code_clear_language_mode()
+    user.gdb_disable()
+
+deck(pedal_right:up):
+    mode.disable("sleep")
+    mode.disable("dictation")
+    mode.enable("command")
