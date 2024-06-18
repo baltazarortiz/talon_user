@@ -16,3 +16,6 @@
 [submodule "flex-mouse-grid"]
 	path = flex-mouse-grid
 	url = https://github.com/brollin/flex-mouse-grid.git
+[submodule "talon_hud"]
+	path = talon_hud
+	url = https://github.com/chaosparrot/talon_hud.git
